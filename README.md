@@ -38,8 +38,8 @@ L’applicazione presenta vari aspetti, tra cui:
 
 ## Struttura Progetto
 Di seguito vengono illustrate le cartelle del repository:
-- **Database**: contiene il modello EER sviluppato;
-- **Documentazione**: contiene la documentazione RAD richiesta per lo sviluppo dell'applicazione;
-- **Presentazione-Intermedia**: contiene la presentazione intermedia, necessaria per esporre l'idea di progetto;
-- **Presentazione-Finale**: contiene la locandina, lo spot promozionale e la presentazione finale;
-- **emad**: contenente l'applicazione realizzata;
+- `Database`: contiene il modello EER sviluppato;
+- `Documentazione`: contiene la documentazione RAD richiesta per lo sviluppo dell'applicazione;
+- `Presentazione-Intermedia`: contiene la presentazione intermedia, necessaria per esporre l'idea di progetto;
+- `Presentazione-Finale`: contiene la locandina, lo spot promozionale e la presentazione finale;
+- `emad`: contenente l'applicazione realizzata;
